@@ -1,4 +1,4 @@
-#Student-dashboard
+# Student-dashboard
 A minimal, responsive and dynamic Student Dashboard  project made up using HTML, CSS &amp; JavaScript 
 
 ![Screenshot 2024-12-20 162444](https://github.com/user-attachments/assets/8f2c5387-6f2a-42b4-bb75-a028d02bc3a2)
