@@ -1,1 +1,2 @@
-# College-dashboard
+#Student-dashboard
+A minimal, responsive and dynamic Student Dashboard  project made up using HTML, CSS &amp; JavaScript 
